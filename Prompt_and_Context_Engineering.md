@@ -97,19 +97,19 @@ Analyze the sentiment of these customer reviews for a Karachi restaurant:\
 Sentiment: Neutral\
 **Why it works:** Examples teach the model the exact format and type of answers you want.
 
-### 3. Chain-of-Thought (CoT) Prompting\
+### 3. Chain-of-Thought (CoT) Prompting
 **What it is:** Ask the model to think step-by-step before giving the final answer.\
 **When to use:** Math, logic, or any problem that benefits from visible reasoning.\
 **Example prompt**\
 Q: A Lahore clothing brand sold 1200 kurtas in Week 1. Sales increased by 15% in Week 2. How many kurtas were sold in Week 2? Let's think step by step.\
-Example step-by-step answer\
-1. Week 1 sales = 1200.\
-2. Increase = 1200 × 0.15 = 180.\
-3. Week 2 sales = 1200 + 180 = 1380.\
-Answer: 1380 kurtas.\
+Example step-by-step answer
+1. Week 1 sales = 1200.
+2. Increase = 1200 × 0.15 = 180.
+3. Week 2 sales = 1200 + 180 = 1380.
+Answer: 1380 kurtas.
 **Why it works:** Breaking reasoning into steps reduces mistakes and makes the process auditable.
 
-### 4. Role-Playing (Persona Prompting)\
+### 4. Role-Playing (Persona Prompting)
 **What it is:** Tell the LLM to act as a specific persona (e.g., data analyst, teacher).\
 **When to use:** You want answers in a certain expertise level or tone.\
 **Example prompt**\
@@ -120,7 +120,7 @@ Act as a data analyst for a Pakistani telecom company. Suggest 3 KPIs to track c
 3. Percentage of users with sudden drop in monthly spend.\
 **Why it works:** Personas focus the model’s style, vocabulary, and priorities.
 
-### 5. Providing Context\
+### 5. Providing Context
 **What it is:** Give background (dataset columns, business goal, constraints) so answers are grounded.\
 **When to use:** When task depends on domain details or specific data.\
 **Example prompt**\
@@ -130,20 +130,20 @@ Suggest Python code using pandas to calculate the average delivery time for orde
 **Example output will be in python coding.**\
 **Why it works:** Context reduces ambiguity and makes the model’s output directly usable.
 
-### 6. Specifying Output Format\
+### 6. Specifying Output Format
 **What it is:** Tell the model exactly how you want the answer (list, JSON, table, numbered items).\
 **When to use:** When you need structured, machine-friendly or copy-pasteable results.\
 **Example prompt**\
 List the top 5 Python libraries for data visualization. Provide the answer as a numbered list.\
-**Example output**\
-1. Matplotlib\
-2. Seaborn\
-3. Plotly\
-4. Altair\
-5. Bokeh\
+**Example output**
+1. Matplotlib
+2. Seaborn
+3. Plotl
+4. Altair
+5. Bokeh
 **Why it works:** Explicit formats make the output predictable and easier to process.
 
-### Quick Tips (for beginners)\
+### Quick Tips (for beginners)
 - Be specific. More detail in the prompt usually gives better answers.
 - Include role + context + task + format. Example: You are a data scientist. I have a CSV with X columns. Do Y and return Z.
 - Use few-shot for special formats. Give 2–3 examples to teach the model.
