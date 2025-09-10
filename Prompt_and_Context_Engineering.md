@@ -1,6 +1,6 @@
 # From Prompts to Context Engineering: A Starter Guide for Effective AI Interaction
-### ![image](<img width="309" height="307" alt="ambreen" src="https://github.com/user-attachments/assets/063ac3e9-4cd6-488b-891c-c8b7fa389167" />
+### !(<img width="101" height="100" alt="ambreen" src="https://github.com/user-attachments/assets/f75e1b99-f2db-4b81-a777-93bc085b983b" />
 )By Ambreen Abdul Raheem (Power BI Data Analyst And AI Agent Developer on **Upwork** as a Freelancer)
 ### Let's discuss Prompt Engineering First:
-
-!(img width="275" height="183" alt="prompt" src="https://github.com/user-attachments/assets/bfdddc0a-867b-47bc-9948-1e8c60af8cdb" )
+!(<img width="275" height="183" alt="prompt" src="https://github.com/user-attachments/assets/7ade5503-a523-4c5a-92f6-efc4ca950ee6" />
+)
