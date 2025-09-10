@@ -1,4 +1,6 @@
 # From Prompts to Context Engineering: A Starter Guide for Effective AI Interaction
+
+### By Ambreen Abdul Raheem (Power BI Data Analyst And AI Agent Developer on **Upwork** as a Freelancer)
 <img width="101" height="100" alt="ambreen" src="https://github.com/user-attachments/assets/f75e1b99-f2db-4b81-a777-93bc085b983b" />
 
 ### By Ambreen Abdul Raheem (Power BI Data Analyst And AI Agent Developer on **Upwork** as a Freelancer)
