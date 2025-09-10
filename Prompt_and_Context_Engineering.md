@@ -46,11 +46,21 @@ Answer complex questions
 ### 🔹 Why Do We Need LLMs?:
 We need LLMs because they act as universal assistants across fields:
 
-**Field:** Education, **How LLMs Help:** Personalized tutoring,	**Explain:** math step by step\
-**Field:** Business	**How LLMs Help:** Automating reports & emails	**Explain:** Draft a professional email\
-**Field:** Healthcare	**How LLMs Help:** Summarize patient records	**Explain:** Turn medical jargon into plain English\
-**Field:** Programming	**How LLMs Help:** Generate or debug code	**Explain:** Write a Python function\
-**Field:** Creativity	Storytelling, **How LLMs Help:** art prompts	**Explain:** Write a bedtime story
+**Field:** Education,
+    - **How LLMs Help:** Personalized tutoring,
+    - **Explain:** math step by step
+**Field:** Business,
+    - **How LLMs Help:** Automating reports & emails,
+    - **Explain:** Draft a professional email
+**Field:** Healthcare,
+    - **How LLMs Help:** Summarize patient records,
+    - **Explain:** Turn medical jargon into plain English
+**Field:** Programming,
+    - **How LLMs Help:** Generate or debug code,
+    - **Explain:** Write a Python function
+**Field:** Creativity	Storytelling,
+    - **How LLMs Help:** art prompts,
+    - **Explain:** Write a bedtime story
 
 ✅ They save time, boost creativity, and make knowledge accessible to everyone.
 
@@ -75,7 +85,6 @@ The AI wave is already here. Professionals in Pakistan who master prompt enginee
 Getting great results from an LLM takes a little structure — not just a single question. Below are the essential techniques, explained simply with clear examples you can copy and try.
 
 ### 1. Zero-Shot Prompting
-
 **What it is**: Ask the model directly without giving examples.\
 **When to use:** Quick explanations or simple tasks where examples aren’t needed.\
 **Example prompt**\
@@ -115,9 +124,9 @@ Answer: 1380 kurtas.
 **Example prompt**\
 Act as a data analyst for a Pakistani telecom company. Suggest 3 KPIs to track customer churn based on usage data.\
 **Example output**\
-1. Monthly active users (MAU) trend per region.\
-2. Average call drop rate per user.\
-3. Percentage of users with sudden drop in monthly spend.\
+1. Monthly active users (MAU) trend per region.
+2. Average call drop rate per user.
+3. Percentage of users with sudden drop in monthly spend.
 **Why it works:** Personas focus the model’s style, vocabulary, and priorities.
 
 ### 5. Providing Context
