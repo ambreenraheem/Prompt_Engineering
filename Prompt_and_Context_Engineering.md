@@ -115,7 +115,7 @@ Example step-by-step answer
 1. Week 1 sales = 1200.
 2. Increase = 1200 × 0.15 = 180.
 3. Week 2 sales = 1200 + 180 = 1380.
-Answer: 1380 kurtas.
+Answer: 1380 kurtas.\
 **Why it works:** Breaking reasoning into steps reduces mistakes and makes the process auditable.
 
 ### 4. Role-Playing (Persona Prompting)
@@ -126,7 +126,7 @@ Act as a data analyst for a Pakistani telecom company. Suggest 3 KPIs to track c
 **Example output**\
 1. Monthly active users (MAU) trend per region.
 2. Average call drop rate per user.
-3. Percentage of users with sudden drop in monthly spend.
+3. Percentage of users with sudden drop in monthly spend.\
 **Why it works:** Personas focus the model’s style, vocabulary, and priorities.
 
 ### 5. Providing Context
