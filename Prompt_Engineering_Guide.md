@@ -1,3 +1,5 @@
+Date: 11-August-2025
+
 # Prompts Engineering: A Guide for Effective AI Interaction
 
 <img width="101" height="100" alt="ambreen" src="https://github.com/user-attachments/assets/f75e1b99-f2db-4b81-a777-93bc085b983b" />
@@ -6,6 +8,8 @@
 ### Let's discuss Prompt Engineering First:
 
 <img width="275" height="183" alt="prompt" src="https://github.com/user-attachments/assets/7ade5503-a523-4c5a-92f6-efc4ca950ee6" />
+
+For more details and information on Prompt Engineering just go to the **PANAVERSITY GITHUB LINK:** (https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering)
 
 ### 📘 Guidebook on Prompt Engineering:
 Artificial Intelligence (AI) is growing very fast, and Large Language Models (LLMs) like OpenAI’s GPT series and Google’s Gemini are leading the way. For data scientists and AI developers, these models give new and powerful tools to create smarter and more useful applications.
