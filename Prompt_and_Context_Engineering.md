@@ -46,20 +46,20 @@ Answer complex questions
 ### 🔹 Why Do We Need LLMs?:
 We need LLMs because they act as universal assistants across fields:
 
-**Field:** Education,
-    - **How LLMs Help:** Personalized tutoring,
-    - **Explain:** math step by step
-**Field:** Business,
-    - **How LLMs Help:** Automating reports & emails,
-    - **Explain:** Draft a professional email
-**Field:** Healthcare,
-    - **How LLMs Help:** Summarize patient records,
-    - **Explain:** Turn medical jargon into plain English
-**Field:** Programming,
-    - **How LLMs Help:** Generate or debug code,
-    - **Explain:** Write a Python function
-**Field:** Creativity	Storytelling,
-    - **How LLMs Help:** art prompts,
+**Field:** Education,\
+    - **How LLMs Help:** Personalized tutoring,\
+    - **Explain:** math step by step\
+**Field:** Business,\
+    - **How LLMs Help:** Automating reports & emails,\
+    - **Explain:** Draft a professional email\
+**Field:** Healthcare,\
+    - **How LLMs Help:** Summarize patient records,\
+    - **Explain:** Turn medical jargon into plain English\
+**Field:** Programming,\
+    - **How LLMs Help:** Generate or debug code,\
+    - **Explain:** Write a Python function\
+**Field:** Creativity	Storytelling,\
+    - **How LLMs Help:** art prompts,\
     - **Explain:** Write a bedtime story
 
 ✅ They save time, boost creativity, and make knowledge accessible to everyone.
