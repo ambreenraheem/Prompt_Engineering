@@ -149,7 +149,7 @@ List the top 5 Python libraries for data visualization. Provide the answer as a 
 2. Seaborn
 3. Plotl
 4. Altair
-5. Bokeh
+5. Bokeh\
 **Why it works:** Explicit formats make the output predictable and easier to process.
 
 ### Quick Tips (for beginners)
