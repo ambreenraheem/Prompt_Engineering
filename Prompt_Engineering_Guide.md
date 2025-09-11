@@ -1,4 +1,4 @@
-Date: 11-August-2025
+Date: 11-September-2025
 
 # Prompts Engineering: A Guide for Effective AI Interaction
 
